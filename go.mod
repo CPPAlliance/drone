@@ -61,3 +61,5 @@ require (
 replace github.com/h2non/gock => gopkg.in/h2non/gock.v1 v1.0.14
 
 go 1.13
+
+replace github.com/drone/drone-yaml v1.2.4-0.20200326192514-6f4d6dfb39e4 => github.com/CPPAlliance/drone-yaml v1.2.4-0.20220202171819-15fb93661dcf
